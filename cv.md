@@ -4,7 +4,6 @@
 
 ### Contact Information:
 
-
 * **Phone:** +79965042600
 * **Email:** adzhigitovruslan@gmail.com
 * **Telegram:** @ruslan_adj
