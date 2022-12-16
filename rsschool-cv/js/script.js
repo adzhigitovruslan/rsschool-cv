@@ -13,3 +13,16 @@ menuBtn.addEventListener("click", () => {
     }
 });
 
+var lastScrollTop = 0
+var navbar = document.querySelector('.header')
+window.addEventListener('scroll', function () {
+const scrollTop =
+window.pageYOffset || document.documentElement.scrollTop
+if (scrollTop > lastScrollTop && !scrollTop <= 0) {
+navbar.style.top = '-90px'
+} else {
+navbar.style.top = '0px'
+}
+lastScrollTop = scrollTop
+})
+
