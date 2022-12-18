@@ -1172,6 +1172,10 @@ body {
     display: none;
   }
 
+  .section:last-child {
+    margin-bottom: 40px;
+  }
+
   .content-title a {
     margin: 0px 0px 20px;
   }
