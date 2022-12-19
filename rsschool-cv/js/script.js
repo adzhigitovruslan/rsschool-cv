@@ -13,13 +13,13 @@ menuBtn.addEventListener("click", () => {
     }
 });
 
-navList.addEventListener("click", (e) => {
+navList.addEventListener("click", function(e) {
   let target = e.target.closest(".nav-item");
   if(target) {
     menuBtn.classList.remove("open");
     navList.classList.remove("open");
   } else {
-    return
+    return;
   }
 })
 
