@@ -54,3 +54,9 @@ function twoSum(nums, target) {
 
 * Bachelor in economy
 * Masters in foreign languages
+
+
+### Languages:
+
+* Russian - Native
+* English - Upper-intermediate according to [https://test.str.by](https://test.str.by)
