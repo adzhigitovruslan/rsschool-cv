@@ -42,3 +42,8 @@ function twoSum(nums, target) {
   }
 }
 ```
+
+
+### Work experience (projects):
+* [list of countries](https://get-countries-api.herokuapp.com 'Click to open the project') (vuejs, api)
+* [online store for pizza delivery](https://get-countries-api.herokuapp.com 'Click to open the project') (vuejs)
