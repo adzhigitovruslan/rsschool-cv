@@ -1,1 +1,1 @@
-# https://adzhigitovruslan.github.io/rsschool-cv/
+https://adzhigitovruslan.github.io/rsschool-cv/
